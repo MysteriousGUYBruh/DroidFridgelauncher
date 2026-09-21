@@ -2,7 +2,7 @@
   <img src="docs/app_icon.png" alt="DroidBridge app icon" width="128" height="128">
 </p>
 
-<h1 align="center">DroidBridge Launcher But I Bring it back to life!</h1>
+<h1 align="center">DroidBridge (or GreenBridge) Launcher</h1>
 
 <p align="center">
   An independent Android launcher framework for users who own Minecraft: Java Edition and want to run Java Edition on Android devices. 
