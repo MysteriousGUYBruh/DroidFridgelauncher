@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/app_icon.png" alt="DroidBridge app icon" width="128" height="128">
+  <img src="https://i.ibb.co.com/4Rf6C4y2/IMG-20260922-155239-305.jpg" width="128" height="128" alt="GreenBridge Icon">
 </p>
 
 <h1 align="center">DroidBridge (or GreenBridge) Launcher</h1>
