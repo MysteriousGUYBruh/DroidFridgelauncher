@@ -5,7 +5,7 @@
 <h1 align="center">DroidBridge (or GreenBridge) Launcher</h1>
 
 <p align="center">
-  An independent Android launcher framework for users who own Minecraft: Java Edition and want to run Java Edition on Android devices. 
+  An independent Android launcher framework for users who does NOT own Minecraft or own Minecraft: Java Edition and want to run Java Edition on Android devices. 
 </p>
 
 <p align="center">
