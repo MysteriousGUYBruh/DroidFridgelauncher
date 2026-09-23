@@ -137,18 +137,6 @@ See `PRIVACY_POLICY.md` for the full privacy policy.
 
 ---
 
-## App icon in this README
-
-The icon at the top of this README expects this file to exist:
-
-```text
-docs/app_icon.png
-```
-
-Before publishing, place the PNG app icon at that path so GitHub displays it correctly.
-
----
-
 ## Building
 
 Open the project in Android Studio and let Gradle sync.
@@ -173,7 +161,7 @@ Release builds should be signed with the correct production keystore and should 
 
 ## Contributing
 
-Contributions are welcome if they respect the project’s legal and technical boundaries.
+Contributions are welcome if they respect the project’s illegal and technical boundaries.
 
 Do not submit code copied from another launcher or project unless the license permits it and attribution is preserved.
 
@@ -184,11 +172,3 @@ Pull requests that include third-party-derived code should clearly identify:
 - the original file or commit if known;
 - the files changed in this project; and
 - any required notices.
-
----
-
-## Legal disclaimer
-
-This project is not an official Minecraft product and is not approved by or associated with Mojang, Microsoft, Xbox, or Minecraft.
-
-This README is not legal advice. Before commercial distribution or app-store publication, review all third-party licenses, Microsoft/Minecraft terms, Google Play policies, and any store-specific requirements that apply to your release.
