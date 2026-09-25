@@ -72,7 +72,7 @@ See [`OPEN_SOURCE_NOTICES.md`](OPEN_SOURCE_NOTICES.md) for project notices and a
 
 - Repository: <https://github.com/PojavLauncherTeam/PojavLauncher>
 - License: GNU Lesser General Public License v3.0, unless a file says otherwise.
-- Relationship: DroidBridge Launcher may include or adapt launcher-side compatibility interfaces, input/surface bridge ideas, runtime integration patterns, and related Android launcher logic from PojavLauncher.
+- Relationship: Vanta Launcher may include or adapt launcher-side compatibility interfaces, input/surface bridge ideas, runtime integration patterns, and related Android launcher logic from PojavLauncher.
 
 Any PojavLauncher-derived files must remain under the applicable PojavLauncher license terms. Do not remove source attribution or license notices.
 
