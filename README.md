@@ -17,7 +17,7 @@
 
 ## About
 
-DroidBridge Launcher is developed by **DNA Mobile Applications** as an independent Android launcher framework and compatibility project.
+Vanta Launcher is developed by **@mysteriousGUYbruh** and **@nanowx26** as an independent Android launcher framework and compatibility project.
 
 This project is not affiliated with, endorsed by, sponsored by, reviewed by, or approved by Microsoft, Mojang, Xbox, Minecraft, PojavLauncher, Boardwalk, Amethyst, MojoLauncher, Zalith Launcher, Fold Craft Launcher, or any other third-party launcher project.
 
@@ -27,7 +27,7 @@ Minecraft, Microsoft, Xbox, Mojang, and related names, services, trademarks, and
 
 ## What this repository contains
 
-This repository is intended to contain the public launcher-side framework for DroidBridge Launcher, including Android UI, settings, instance management, renderer configuration, input handling, legal screens, and compatibility scaffolding.
+This repository is intended to contain the public launcher-side framework for Vanta Launcher, including Android UI, settings, instance management, renderer configuration, input handling, legal screens, and compatibility scaffolding.
 
 Depending on the branch, release, or build configuration, this repository may include experimental or in-progress launcher components.
 
@@ -44,25 +44,7 @@ The public project focuses on:
 
 ---
 
-## What this repository must not contain
-
-Do **not** commit private or user-specific configuration.
-
-The public source tree must not include:
-
-- private authentication credentials;
-- production signing keys or keystores;
-- private API keys;
-- user account tokens or session data;
-- local machine paths such as Android SDK paths;
-- bundled Minecraft game files, assets, libraries, or proprietary content;
-- private endpoint details;
-- private production service implementation code; or
-- private release-only launcher implementation classes.
-
-Keep private configuration in local files that are ignored by Git.
-
-Recommended private files:
+## Recommended private files:
 
 ```text
 local.properties
@@ -78,7 +60,7 @@ secrets.properties
 
 ## Open-source lineage and credits
 
-DroidBridge Launcher is a DNA Mobile Applications project, but Android Minecraft: Java Edition launchers have a long open-source history.
+Vanta Launcher is NOT a DNA Mobile Applications project, but Android Minecraft: Java Edition launchers have a long open-source history.
 
 This repository contains or may contain code, compatibility ideas, runtime integration patterns, API bridge behavior, input/surface handling, or implementation details that are copied from, modified from, derived from, studied from, or inspired by other open-source projects.
 
@@ -129,7 +111,7 @@ This README is not legal advice. Review the relevant licenses before commercial 
 
 ## Privacy
 
-DroidBridge Launcher is designed to avoid operating a DNA Mobile Applications account server.
+Vanta Launcher is designed to avoid operating a DNA Mobile Applications account server.
 
 Launcher settings, logs, worlds, mods, resource packs, shader packs, and launcher files are intended to remain local to the user’s device unless the user chooses to share, export, upload, or send them through another service.
 
