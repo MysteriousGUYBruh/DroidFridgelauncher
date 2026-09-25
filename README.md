@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/4Rf6C4y2/IMG-20260922-155239-305.jpg" width="128" height="128" alt="GreenBridge Icon">
+  <img src="https://i.ibb.co.com/C3yD50ZX/IMG-20260925-130809-688.jpg" width="128" height="128" alt="Vanta">
 </p>
 
-<h1 align="center">DroidBridge (or DroidFridge) Launcher</h1>
+<h1 align="center">Vanta Launcher</h1>
 
 <p align="center">
   An independent Android launcher framework for users who does NOT own Minecraft or own Minecraft: Java Edition and want to run Java Edition on Android devices. 
